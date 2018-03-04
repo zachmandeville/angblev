@@ -1,0 +1,7 @@
+:term:stub:
+= SFTP = 
+
+Secure File Transfer Protocol.  A commane-line command to send all your files from your computer to
+your remote server, without them being intercepted by anyone on the same network as you.
+
+

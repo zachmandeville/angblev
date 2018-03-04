@@ -1,0 +1,37 @@
+<!--
+
+=================
+*Comics Template*
+=================
+
+Here's a handy template for you!
+
+Things to adjust:
+#Title#- Change to your image's title
+#BackID# - Change to the div id of your image.
+#Link# - the URL of this page (e.g. 'my-comic.html'
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content = "width=device=width, initial-scale=1">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../styles/main.css" type="text/css">
+    <title>#Title#</title>
+  </head>
+  <body>
+      <div class="breadcrumb">
+	<a class="trail homepage" href="../index.html">Angblev ></a>
+	<a class=" trail comics" href="index.html#BackID#">Comics ></a>
+	<a class="trail" href="#Link#">#Title#</a>
+      </div>
+      <a class="back-button" href="index.html#BackID#">Back</a>
+      <section id="the-art" class="container">
+	<!--Copy the next line for however many pages you have, changing the src for each one
+   appropriately -->
+	<img src="images/#YourImage1#" width="100%" align="center">
+      </section>
+  </body>
+</html>

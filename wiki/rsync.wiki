@@ -1,0 +1,8 @@
+:tool:term:stub:
+= Rsync =
+
+A command line tool for sharing a folder between multiple computers/servers, and pushing/pulling
+updates from that folder.
+
+
+

@@ -1,0 +1,5 @@
+:tool:coding:
+= Vim =
+
+A text-editor/language accessible in almost all command lines.  Endlessly extensible, beautiful to
+use, and life-changing.  

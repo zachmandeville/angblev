@@ -1,0 +1,31 @@
+= Intentions =
+
+This is a portfolio site for Angelica's artwork, in all the mediums it shows itself.  It is also a
+way for us to remove ourselves entirely from Webflow.  She currently has a site, but it's hosted
+through that other platform, which costs us like 20 a month.  So here we can keep all the site's
+content, and the parts of the design we want, but for 5 cents a month instead.
+
+The page covers three areas of her work:
+- Comics
+- Posters
+- Gifs
+
+In addition, there's a contact page which includes her email and other ways to reach her.
+
+= Needs =
+
+* Easy to maintain
+  * It should not require a crazy amount of work to put a new poster up, or to change the text on
+    some site.  Or, put another way, there should not be a lot of hurdles and hoops to do these
+    things.  Reduce the amount of tools needed for accessing and updating the page.
+* Control over Image Size and Placement
+  * Webflow was terrible with this.  Each image has it's optimal size, and so she should be able to
+    adjust each div to fit that.  The gifs should be well laid out in a grid without a lot of hard
+    work.
+* As free as possible
+  * No more webflow
+* Big chunky fonts and simple design. 
+* Looks good on desktop and phone. RESPONSIVE BABY!!!
+
+This page can be done all through html and css, and so this can act as a good way to feel more
+comfortable and skilled with both!

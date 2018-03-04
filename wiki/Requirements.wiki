@@ -1,0 +1,15 @@
+= Requirements =
+
+A server to host it - This can be on nearlyfreespeech.net.
+
+A domain to point to the server - this is already on nfs.net, with angblev.com
+
+A text editor for writing the html and css - Zach recommends [[Vim]], of course-- but it should be whichever one
+is mad comfortable. 
+
+A way to upload files from local computer to the remote server - [[Git]] would be a nice way to do this.
+[[SFTP]] could also work, or [[rsync]].  All of these I'll need to figure out to (I am still using coda to
+upload, but feel this could be stronger.)
+
+Documentation for all of this - that's what this is!
+

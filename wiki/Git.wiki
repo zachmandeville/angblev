@@ -1,0 +1,5 @@
+:tool:term:
+= Git =
+
+git is a being of language that lets you travel through time throughout your project and share it
+easily with others through contionually vibrating, invisible threads.  
